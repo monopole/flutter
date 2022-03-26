@@ -1,8 +1,6 @@
-# flutter
+# flutter notes
 
-A collection of flutter widgets for experimentation.
-
-Each widget lives in its own package (its own directory).
+A widget can live in its own package (its own directory).
 
 Some widgets have sub-packages of interest only to them,
 e.g. a dart library with no flutter code.
